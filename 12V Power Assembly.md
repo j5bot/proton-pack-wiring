@@ -50,4 +50,4 @@ BCC2 is the power out and secondary battery sub-assembly
 ### Power Input Sub-Assemblies
 
 1. For both DC ports, mount the DC barrel jack / port where desired, and then connect to M 
-connector (part #2), using butt connectors (label the wires PWR1 and PWR2)
+connector (part #5), using butt connectors (label the wires PWR1 and PWR2)
