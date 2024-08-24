@@ -8,6 +8,7 @@
 
 1. [2 x 12V DC rechargeable battery pack (6000mAh)](https://amzn.to/4dzqkdP)
 2. [2 x 12V DC M plug to 2 pigtail (18g)](https://amzn.to/4fVek8b)
+3. [1 x 12V DC M to M cable, 3ft (18g)](https://amzn.to/4dRkZit)
 2. [4 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 3. [4 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 4. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
