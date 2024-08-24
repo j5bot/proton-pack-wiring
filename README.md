@@ -1,5 +1,5 @@
 # proton-pack-wiring
-Diagrams and how-tos for wiring up your proton packs power and audio
+Diagrams and how-tos for wiring up your proton pack's power and audio
 
 ## [12V Power Assembly](12V%20Power%20Assembly.md)
 
