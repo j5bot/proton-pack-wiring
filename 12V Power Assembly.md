@@ -13,6 +13,7 @@
 4. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
 5. [1 x 12V Y-Cable -- 1F to 2M ends](https://amzn.to/3MgKJsl) (also included with Talentcell battery pack, so optional)
 6. [3 x 12V extension cables](https://amzn.to/3MjNKYL) (maybe more, depending on mounting locations)
+7. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
 8. [butt connectors (18g)](https://amzn.to/4cEEYiH)
 9. cable and wire management supplies (zip ties and/or hook-and-loop strips; cable clips) as desired
 
