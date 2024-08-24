@@ -6,11 +6,11 @@
 
 ### Parts
 
-1. 2 x 12V DC M plug (pre-wired red/black, 18g)
-2. 4 x F connector (pre-wired red/black, 18g)
-3. 4 x M connector (pre-wired red/black, 18g)
-4. 2 x DC barrel jack (pre-wired red/black, 18g)
-5. 1 x 12V Y-Cable -- 1F to 2M ends
+1. [2 x 12V DC M plug (pre-wired red/black, 18g)](https://amzn.to/3MkGiwz) or 2 x [12V DC M plug to 2 pigtail (18g)](https://amzn.to/4fVek8b)
+2. [4 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
+3. [4 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
+4. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
+5. [1 x 12V Y-Cable -- 1F to 2M ends](https://amzn.to/3MgKJsl)
 6. 3 x 12V extension cables (maybe more, depending on mounting locations)
 7. wire nuts
 8. butt connectors
