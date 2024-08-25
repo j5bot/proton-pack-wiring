@@ -15,5 +15,5 @@ output from the Talentcell battery.
 A separate page will be created for how to add the
 step down to this circuit.
 
-[Part: 12V to 6V step down](https://amzn.to/3XfXYzH)
-[Part: 12V to 5V step down](https://amzn.to/4dYcIIU)
+- [Part: 12V to 6V step down](https://amzn.to/3XfXYzH)
+- [Part: 12V to 5V step down](https://amzn.to/4dYcIIU)
