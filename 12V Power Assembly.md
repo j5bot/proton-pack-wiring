@@ -59,3 +59,11 @@ BCC2 is the power out and secondary battery sub-assembly
 
 1. For both DC ports, mount the DC barrel jack / port where desired, and then connect to M 
 connector (part #5), using butt connectors (label the wires PWR1 and PWR2)
+
+
+## Connecting Sub-Assemblies
+
+1. Connect one F IN connector on BCC1 to the M IN connector on the switch assembly
+2. Connect one F OUT connector on BCC2 to the M OUT connector on the switch assembly
+3. Connect PWR1 (CHARGE - charge jack) M connector to F IN connector on BCC1
+4. Connect PWR2 (2ND - secondary battery port) M connector to F OUT connector on BCC2
