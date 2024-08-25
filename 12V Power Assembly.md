@@ -8,6 +8,17 @@ from the battery while charging
 - Secondary battery port - just flip the bypass switch
 and then plug in your emergency power
 
+## For Users of 5V/6V Keep-Alives / Pack Electronics
+
+Especially for HasLab pack users, a 12V to 6V step down
+converter is recommended rather than using the 5V USB
+output from the Talentcell battery.
+
+a separate page will be created for how to add the
+step down to this circuit.
+
+[Part: 12V to 6V step down](https://amzn.to/3XfXYzH)
+
 ## Diagram
 
 ![12V Power Assembly Wiring Diagram](12V%20Power%20Assembly.png)
