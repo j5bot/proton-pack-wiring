@@ -1,5 +1,13 @@
 # 12V Power Assembly Wiring
 
+## Features
+
+- Charging port for primary internal battery
+- Bypass switch to isolate the pack electronics
+from the battery while charging
+- Secondary battery port - just flip the bypass switch
+and then plug in your emergency power
+
 ## Diagram
 
 ![12V Power Assembly Wiring Diagram](12V%20Power%20Assembly.png)
