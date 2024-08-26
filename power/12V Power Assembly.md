@@ -27,6 +27,7 @@ and then plug in your emergency power
 9. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
 10. [butt connectors (18g)](https://amzn.to/4cEEYiH)
 11. cable and wire management supplies (zip ties and/or hook-and-loop strips; cable clips) as desired
+12. [5 x 4 pin F connector (pre-wired, 20g)](https://amzn.to/4g1PovC)
 
 ## Power Sub-Assemblies
 
