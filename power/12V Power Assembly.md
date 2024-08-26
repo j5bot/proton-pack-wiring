@@ -14,6 +14,8 @@ and then plug in your emergency power
 
 ([draw.io source](12V%20Power%20Assembly.drawio))
 
+## Guide
+
 ### Parts
 
 1. [2 x 12V DC rechargeable battery pack (6000mAh)](https://amzn.to/4dzqkdP)
