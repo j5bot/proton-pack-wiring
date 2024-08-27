@@ -218,11 +218,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_dGTDY7JXn8Tc2R_07M-147" value="speaker -" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="P_dGTDY7JXn8Tc2R_07M-146" vertex="1" connectable="0">
-          <mxGeometry x="0.5354" y="-3" relative="1" as="geometry">
-            <mxPoint x="64" y="2" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="P_dGTDY7JXn8Tc2R_07M-148" value="aux in +&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="P_dGTDY7JXn8Tc2R_07M-146" vertex="1" connectable="0">
           <mxGeometry x="-0.2654" y="-1" relative="1" as="geometry">
             <mxPoint x="54" y="26" as="offset" />
