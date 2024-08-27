@@ -6,6 +6,8 @@ Diagrams and how-tos for wiring up your proton pack's power and audio
 This assembly provides a 12V DC battery charging port, a primary battery bypass switch, a 12V DC 
 secondary battery port, and dual 12V DC power out for amplifier and keep-alive / main board.
 
+## [Amp Audio](amp-audio/Audio%20Wiring.md)
+
 ## For Users of 5V / 6V Keep-Alives or Pack Electronics
 
 Especially for HasLab pack users, a 12V to 6V step down
