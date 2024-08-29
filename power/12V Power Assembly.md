@@ -8,6 +8,12 @@ from the battery while charging
 - Secondary battery port - just flip the bypass switch
 and then plug in your emergency power
 
+## Overview
+
+For this project we will create two identical
+Y connectors with 12V DC input, 12V DC output and
+connect them together with a bypass switch.
+
 ## Diagram
 
 ![12V Power Assembly Wiring Diagram](12V%20Power%20Assembly.png)
