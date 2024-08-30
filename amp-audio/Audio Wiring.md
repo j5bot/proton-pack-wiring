@@ -26,6 +26,7 @@
 - 1 x 4 pin connector
 
 
+<!--
 ### Wire List
 
 - AUX 2 pin F
@@ -51,9 +52,10 @@
   - black
 - AMP 2 pin M
   - red
+  - black
 - 4 pin F
 - 4 pin M
-
+-->
 
 ### Aux In
 
