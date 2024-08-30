@@ -135,6 +135,7 @@ the amplifier out of the audio circuit.
 
 ### Main Wire Harness
 
+#### Bypass Switch Section
 1. Connect a blue wire ![wire](../images/blue-wire.png) 'jumper' to the black wire ![wire](../images/black-wire.png) of a
    2 pin F connector using a butt connector (label AMP)
 2. Connect the black wire ![wire](../images/black-wire.png) of the 4 pin F connector 
@@ -149,6 +150,7 @@ the amplifier out of the audio circuit.
 - SPKR 2 pin M red
 -->
 
+#### The Rest
 1. Connect the black wire ![wire](../images/black-wire.png) of the AUX 2 pin M connector,
    the black wire ![wire](../images/black-wire.png) of the PACK 2 pin M connector, and
    a black wire ![wire](../images/black-wire.png) 'jumper' using a butt connector
@@ -162,4 +164,16 @@ the amplifier out of the audio circuit.
 - SPKR 2 pin M black
 - AMP 2 pin M black
 -->
+
+### Assembling the Circuit
+
+Connect the paired 2 pin M and F connectors
+
+- AUX F to M
+- PACK F to M
+- SPKR F to M
+- AMP F to M
+
+Connect the 4 pin bypass switch connectors
+
    
