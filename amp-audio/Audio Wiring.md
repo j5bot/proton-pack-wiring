@@ -1,12 +1,24 @@
-# Audio Wiring
+# Audio Wiring with Amp Bypass
+
+## Overview
+
+We will be disconnecting the pack audio from the
+built in speaker.  Then we will connect the pack
+audio to the aux input of a 30W mono amplifier
+before routing it to a new higher power speaker.
+
+Along the way, we'll pass the signals through a
+bypass switch, allowing the pack audio to be
+reconnected directly to the speaker while taking
+the amplifier out of the audio circuit.
 
 ## Features
 
 - Mono amp
-  - App control
+  - App control through phone
   - Aux in
-  - USB in
-  - Bluetooth audio
+  - Play files from USB
+  - Bluetooth audio from phone
 - Higher power speaker
 - Amp bypass to use original pack audio
 
@@ -22,11 +34,11 @@
 
 - [Mono amp](https://amzn.to/3Mmv7n8)
 - [3" speaker](https://amzn.to/4cKyq2i)
+- 3.5mm mono (or stereo) "headphone" pre-wired jack or cable
 - [1 x DPDT switch](https://amzn.to/3yMudNG)
 - [1 x 4 pin connector](https://amzn.to/3Z5QMY5)
 - [4 x 2 pin F connector](https://amzn.to/3Mq3lpL)
 - [4 x 2 pin M connector](https://amzn.to/3Mq3lpL)
-
 
 <!--
 ### Wire List
