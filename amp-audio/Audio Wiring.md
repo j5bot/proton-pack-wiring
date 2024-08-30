@@ -20,10 +20,12 @@
 
 ### Parts
 
-- amp
-- speaker
-- DPDT switch
-- 1 x 4 pin connector
+- [Mono amp](https://amzn.to/3Mmv7n8)
+- [3" speaker](https://amzn.to/4cKyq2i)
+- [1 x DPDT switch](https://amzn.to/3yMudNG)
+- [1 x 4 pin connector](https://amzn.to/3Z5QMY5)
+- [4 x 2 pin F connector](https://amzn.to/3Mq3lpL)
+- [4 x 2 pin M connector](https://amzn.to/3Mq3lpL)
 
 
 <!--
