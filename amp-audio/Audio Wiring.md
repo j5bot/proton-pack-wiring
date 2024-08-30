@@ -91,11 +91,13 @@
 4. Connect black wire ![wire](../images/black-wire.png) of 4 pin F connector to red wire
    ![wire](../images/red-wire.png) of 2 pin M connector (label AMP)
    
+<!--
 - 4 pin F blue/red/green/black
 - AUX 2 pin M red
 - PACK 2 pin M red
 - SPKR 2 pin M red
 - AMP 2 pin M red
+-->
 
 ### Bypass Switch Sub-Assembly
 
@@ -107,7 +109,9 @@
 5. Solder blue wire ![wire](../images/black-wire.png) of 4 pin M connector to right bottom of bypass switch
 6. Solder black wire ![wire](../images/black-wire.png) of 4 pin M connector to left bottom of bypass switch
 
+<!--
 - 4 pin M red/green/blue/black
+-->
 
 ### Main Wire Harness
 
@@ -119,19 +123,23 @@
    ![wire](../images/red-wire.png) of a 2 pin F connector (label AUX)
 4. Connect the green wire ![wire](../images/green-wire.png) of the 4 pin F connector to the
    red wire ![wire](../images/red-wire.png) of a 2 pin M connector (label SPKR)
-   
+
+<!--
 - AMP 2 pin F red/black
 - SPKR 2 pin M red
+-->
 
 1. Connect the black wire ![wire](../images/black-wire.png) of the AUX 2 pin M connector,
    the black wire ![wire](../images/black-wire.png) of the PACK 2 pin M connector, and
    a black wire ![wire](../images/black-wire.png) 'jumper' using a butt connector
 2. Connect the black 'jumper' wire ![wire](../images/black-wire.png) from above to the
    black wire ![wire](../images/black-wire.png) of the SPKR 2 pin M connector, and the black wire
-   of the AMP 2 pin M connector using a butt connector
+    ![wire](../images/black-wire.png) of the AMP 2 pin M connector using a butt connector
    
+<!--
 - AUX 2 pin M black
 - PACK 2 pin M black
 - SPKR 2 pin M black
 - AMP 2 pin M black
+-->
    
