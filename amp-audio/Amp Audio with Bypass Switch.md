@@ -30,15 +30,26 @@ the amplifier out of the audio circuit.
 
 ## Guide
 
+### Tools
+
+- Wire cutter
+- Wire stripper
+- Crimper
+- Soldering iron and supplies
+- Fasteners for mounting the amp
+- Drill for mouting the bypass switch
+
 ### Parts
 
-- [Mono amp](https://amzn.to/3Mmv7n8)
-- [3" speaker](https://amzn.to/4cKyq2i)
-- 3.5mm mono (or stereo) "headphone" pre-wired jack or cable
-- [1 x DPDT switch](https://amzn.to/3yMudNG)
-- [1 x 4 pin connector](https://amzn.to/3Z5QMY5)
-- [4 x 2 pin F connector](https://amzn.to/3Mq3lpL)
-- [4 x 2 pin M connector](https://amzn.to/3Mq3lpL)
+1. [Mono amp](https://amzn.to/3Mmv7n8)
+2. [3" speaker](https://amzn.to/4cKyq2i)
+3. 3.5mm mono (or stereo) "headphone" pre-wired [jack](https://amz.run/9VQ6)
+  or [cable](https://amz.run/9VQ9)
+4. [1 x DPDT switch](https://amzn.to/3yMudNG) (common for other wiring)
+5. [1 x 4 pin connector](https://amzn.to/3Z5QMY5) (common for other wiring)
+6. [4 x 2 pin F connector](https://amzn.to/3Mq3lpL) (common for other wiring)
+7. [4 x 2 pin M connector](https://amzn.to/3Mq3lpL)
+8. [butt connectors (18g)](https://amzn.to/4cEEYiH)
 
 <!--
 ### Wire List
