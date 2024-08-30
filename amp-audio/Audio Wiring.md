@@ -63,7 +63,9 @@
 2. Connect red/black (and white if stereo) wires ![wire](../images/red-wire.png) ![wire](../images/black-wire.png) from
    3.5mm connector cable to 2 pin F connector using butt connectors (label AUX)
    
+<!--
 - AUX 2 pin F red/black
+-->
 
 ### Pack Audio
 
@@ -71,14 +73,18 @@
 2. Connect red/black wires ![wire](../images/red-wire.png) ![wire](../images/black-wire.png) 
    from pack main board to 2 pin F connector using butt connectors (label connector PACK)
    
+<!--
 - PACK 2 pin F red/black
+-->
 
 ### Speaker In
 
 1. Connect red/black wires ![wire](../images/red-wire.png) ![wire](../images/black-wire.png) 
    from 2 pin F connector to the new speaker (label connector SPKR)
    
+<!--
 - SPKR 2 pin F red/black
+-->
 
 ### Bypass Switch Connector
 
