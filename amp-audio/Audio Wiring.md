@@ -109,13 +109,13 @@
 
 ### Bypass Switch Sub-Assembly
 
-1. Mount bypass switch at desired location
 2. Solder red wire ![wire](../images/red-wire.png) of 4 pin M connector to right center of bypass switch
 3. Solder green wire ![wire](../images/green-wire.png) of 4 pin M connector to left center of bypass switch
 4. Solder a red wire ![wire](../images/red-wire.png) jumper of left top of bypass switch to 
    right top of bypass switch
 5. Solder blue wire ![wire](../images/black-wire.png) of 4 pin M connector to right bottom of bypass switch
 6. Solder black wire ![wire](../images/black-wire.png) of 4 pin M connector to left bottom of bypass switch
+1. Mount bypass switch at desired location
 
 <!--
 - 4 pin M red/green/blue/black
