@@ -125,9 +125,11 @@
    the black wire ![wire](../images/black-wire.png) of the PACK 2 pin M connector, and
    a black wire ![wire](../images/black-wire.png) 'jumper' using a butt connector
 2. Connect the black 'jumper' wire ![wire](../images/black-wire.png) from above to the
-   black wire ![wire](../images/black-wire.png) of the SPKR 2 pin M connector, and the 
+   black wire ![wire](../images/black-wire.png) of the SPKR 2 pin M connector, and the black wire
+   of the AMP 2 pin M connector using a butt connector
    
 - AUX 2 pin M black
 - PACK 2 pin M black
-- SPKR 2 pin M black   
+- SPKR 2 pin M black
+- AMP 2 pin M black
    
