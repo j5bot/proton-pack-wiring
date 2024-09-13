@@ -27,13 +27,13 @@ connect them together with a bypass switch.
 1. [2 x 12V DC rechargeable battery pack (6000mAh)](https://amzn.to/4dzqkdP)
 2. [2 x 12V DC M plug to 2 pigtail (18g)](https://amzn.to/4fVek8b)
 3. [1 x 12V DC M to M cable, 3ft (18g)](https://amzn.to/4dRkZit)
-4. [4 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx) (common for other wiring)
-5. [4 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx) (common for other wiring)
+4. [7 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
+5. [7 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 6. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
 7. [1 x 12V Y-Cable -- 1F to 2M ends](https://amzn.to/3MgKJsl) (also included with Talentcell battery pack, so optional)
 8. [3 x 12V extension cables](https://amzn.to/3MjNKYL) (maybe more, depending on mounting locations)
-9. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT) (common for other wiring)
-10. [butt connectors (18g)](https://amzn.to/4cEEYiH) (common for other wiring)
+9. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
+10. [butt connectors (18g)](https://amzn.to/4cEEYiH)
 11. cable and wire management supplies (zip ties and/or hook-and-loop strips; cable clips) as desired
 
 ## Power Sub-Assemblies
