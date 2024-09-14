@@ -16,23 +16,23 @@ connect them together with a bypass switch.
 
 ## Photos
 
-![battery wiring sub-assembly-labeled.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)
+[![battery wiring sub-assembly-labeled.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fbattery%20wiring%20sub-assembly-labeled.jpg)
 
 Battery-side wiring Y sub-assembly
 
-![load wiring sub-assembly-labeled.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)
+[![load wiring sub-assembly-labeled.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fload%20wiring%20sub-assembly-labeled.jpg)
 
 Load-side wiring Y sub-assembly
 
-![switch sub-assembly-labeled.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)
+[![switch sub-assembly-labeled.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)](photos%2Fswitch%20sub-assembly-labeled.jpg)
 
 Switch wiring sub-assembly
 
-![led sub-assembly-labeled.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)
+[![led sub-assembly-labeled.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)](photos%2Fled%20sub-assembly-labeled.jpg)
 
 Two-color LED indicator sub-assembly
 
-![charge port sub-assembly-labeled.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
+[![charge port sub-assembly-labeled.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)](photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
 
 Charge & External power sub-assemblies
 
@@ -73,7 +73,7 @@ Charge & External power sub-assemblies
 
 ![battery sub-assembly.png](battery%20sub-assembly.png)
 
-![battery wiring sub-assembly-labeled-sm.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)
+[![battery wiring sub-assembly-labeled-sm.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fbattery%20wiring%20sub-assembly-labeled.jpg)
 
 1. Label one 12V pigtail (part #2) BATT
 2. Connect one bare-wire side of a 12V pigtail to a pre-wired FEMALE quick connector 
@@ -88,7 +88,7 @@ Charge & External power sub-assemblies
 
 ![load sub-assembly.png](load%20sub-assembly.png)
 
-![load wiring sub-assembly-labeled-sm.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)
+[![load wiring sub-assembly-labeled-sm.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fload%20wiring%20sub-assembly-labeled.jpg)
 
 1. Label one 12V pigtail (part #2) LOAD
 2. Connect one bare-wire side of the 12V pigtail to a pre-wired FEMALE quick connector
@@ -104,7 +104,7 @@ Charge & External power sub-assemblies
 
 ![switch sub-assembly.png](switch%20sub-assembly.png)
 
-![switch sub-assembly-labeled-sm.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)
+[![switch sub-assembly-labeled-sm.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)](photos%2Fswitch%20sub-assembly-labeled.jpg)
 
 1. Label a MALE quick connector BATT
 2. Label a MALE quick connector LOAD
@@ -118,7 +118,7 @@ Charge & External power sub-assemblies
 
 ![led sub-assembly.png](led%20sub-assembly.png)
 
-![led sub-assembly-labeled-sm.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)
+[![led sub-assembly-labeled-sm.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)](photos%2Fled%20sub-assembly-labeled.jpg)
 
 1. Snip the black wires off of two MALE quick connectors, labeling the red wire of one LED B and 
    the red wire of the other LED R
@@ -130,7 +130,7 @@ Charge & External power sub-assemblies
 
 ### Power Input Sub-Assemblies
 
-![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
+[![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)(photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
 
 1. Connect the black and red wires from one pre-wired 12V port to the black and red wires on one 
    MALE quick connector.  Label it CHRG.
@@ -140,7 +140,7 @@ Charge & External power sub-assemblies
 ### Mounting Assemblies
 
 1. After drilling your mounting holes, you should be able to feed the MALE connectors on the LED 
-sub-assembly and the power input sub-assemblies through the holes
+sub-assembly and the power input sub-assemblies through their respective mounting holes
 2. Pass the shaft of your bypass switch through the hole and use the 
 washers, nut, etc. to affix the switch and attached sub-assembly
 
