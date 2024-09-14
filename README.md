@@ -6,6 +6,7 @@ Diagrams and how-tos for wiring up your proton pack's power and audio
 This mod provides a 12V DC battery charging port, a primary battery bypass switch, a 12V DC 
 secondary battery port, and dual 12V DC power out for amplifier and keep-alive / main board.
 
+<!--
 ### For Users of 5V / 6V Keep-Alives or Pack Electronics
 
 Especially for HasLab pack users, a 12V to 6V step down
@@ -21,3 +22,4 @@ step down to this circuit.
 ## [Amp Audio with Bypass Switch](amp-audio/Amp%20Audio%20with%20Bypass%20Switch.md)
 
 This mod adds a 30W amplifier,new speaker, and a bypass switch to route around the amplifier.
+-->

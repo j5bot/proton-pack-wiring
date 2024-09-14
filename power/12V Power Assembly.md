@@ -14,13 +14,39 @@ For this project we will create two identical
 Y connectors with 12V DC input, 12V DC output and
 connect them together with a bypass switch.
 
+## Photos
+
+![battery wiring sub-assembly-labeled.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)
+
+Battery-side wiring Y sub-assembly
+
+![load wiring sub-assembly-labeled.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)
+
+Load-side wiring Y sub-assembly
+
+![switch sub-assembly-labeled.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)
+
+Switch wiring sub-assembly
+
+![led sub-assembly-labeled.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)
+
+Two-color LED indicator sub-assembly
+
+![charge port sub-assembly-labeled.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
+
+Charge & External power sub-assemblies
+
 ## Diagram
 
 ![12V Power Assembly Wiring Diagram](12V%20Power%20Assembly.png)
 
-([draw.io source](12V%20Power%20Assembly.drawio))
+([draw.io source](12V%20Power%20Assembly%20-%20With&20Indicator.drawio))
 
 ## Guide
+
+### Tools
+
+1. Soldering iron and supplies to wire disconnect switch to quick connect wires
 
 ### Parts
 
@@ -30,50 +56,112 @@ connect them together with a bypass switch.
 4. [7 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 5. [7 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 6. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
-7. [1 x 12V Y-Cable -- 1F to 2M ends](https://amzn.to/3MgKJsl) (also included with Talentcell battery pack, so optional)
-8. [3 x 12V extension cables](https://amzn.to/3MjNKYL) (maybe more, depending on mounting locations)
-9. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
-10. [butt connectors (18g)](https://amzn.to/4cEEYiH)
-11. cable and wire management supplies (zip ties and/or hook-and-loop strips; cable clips) as desired
+7. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
+8. [butt connectors (18g)](https://amzn.to/4cEEYiH), [wire nuts](https://amz.run/9Xn1) or opt 
+   for soldered wire connections
+9. cable and wire management supplies ([zip ties](https://amz.run/9Xnz), 
+   [zip tie mounts](https://amz.run/9XnW)) as desired
+10. [1 x 12V Y-Cable -- 1F to 2M ends](https://amzn.to/3MgKJsl) (if needed for split load such
+    as 12V keep-alive and amp -- also included with Talentcell battery pack, so optional)
+11. [0-# x 12V extension cables](https://amzn.to/3MjNKYL) (0 or more, depending on mounting 
+   locations)
 
 ## Power Sub-Assemblies
 
-### Battery Connection Sub-Assemblies
+### Battery Connection Sub-Assembly
 
-![12V Power Assembly - BCC1 Diagram](12V%20Power%20Assembly%20-%20BCC1.png)
-![12V Power Assembly - BCC2 Diagram](12V%20Power%20Assembly%20-%20BCC2.png)
+![battery sub-assembly.png](battery%20sub-assembly.png)
 
+![battery wiring sub-assembly-labeled-sm.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)
 
-1. Connect one 12V DC M to two pigtails (part #2) to two F (part #4) pre-wired connectors 
-using butt connectors (part #10) to join (label it BCC1, connectors IN and IN)
-2. Repeat step one (label it BCC2, connectors OUT and OUT)
+1. Label one 12V pigtail (part #2) BATT
+2. Connect one bare-wire side of a 12V pigtail to a pre-wired FEMALE quick connector 
+   (part #4)
+   using your preferred wire connection strategy.  Label the two-wire quick connector CHRG.
+3. Snip the black wire off of one FEMALE quick connector.  Label the connector LED B.
+4. Connect the other bare-wire side of the 12V pigtail to both a new pre-wired FEMALE quick 
+   connector AND the single-wire connector created in the previous step.  Connect the three red wires to 
+   each other and the two black wires to each other.  Label the two-wire FEMALE quick connector BATT SW.
 
-BCC1 is the primary battery and charging sub-assembly
+### Pack Load Sub-Assembly
 
-BCC2 is the power out and secondary battery sub-assembly
+![load sub-assembly.png](load%20sub-assembly.png)
+
+![load wiring sub-assembly-labeled-sm.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)
+
+1. Label one 12V pigtail (part #2) LOAD
+2. Connect one bare-wire side of the 12V pigtail to a pre-wired FEMALE quick connector
+   (part #4)
+   using your preferred wire connection strategy.  Label the two-wire quick connector EXT.
+3. Snip the black wire off of one FEMALE quick connector.  Label the connector LED R.
+4. Connect the other bare-wire side of the 12V pigtail to both a new pre-wired FEMALE quick
+   connector AND the single-wire connector created in the previous step.  Connect the three red wires to
+   each other and the two black wires to each other.  Label the two-wire FEMALE quick connector 
+   LOAD SW.
 
 ### Bypass Switch Sub-Assembly
 
-![Bypass Switch Sub-Assembly](Bypass%20Switch%20Sub-Assembly.png)
+![switch sub-assembly.png](switch%20sub-assembly.png)
 
-1. Mount the DPDT switch (part #9) where desired
-2. Label a M connector (part #5) OUT
-3. Label a M connector (part #5) IN
-4. Solder the black wire from the IN M connector onto the left top terminal of the DPDT switch
-5. Solder the black wire from the OUT M connector onto the left center terminal of the DPDT switch
-6. Solder the red wire from the IN M connector onto the right top terminal of the DPDT switch
-7. Solder the red wire from the OUT M connector onto the right center top terminal of the DPDT 
-   switch
+![switch sub-assembly-labeled-sm.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)
+
+1. Label a MALE quick connector BATT
+2. Label a MALE quick connector LOAD
+3. Snip the red wire off of one FEMALE quick connector and label it LED
+4. Solder the red wire from the BATT connector onto the left center terminal of the DPDT switch
+5. Solder the red wire from the LOAD connector onto the left bottom terminal of the DPDT switch
+6. Connect the three black wires from BATT, LOAD, and LED quick connectors using your preferred 
+   wire connection strategy
+
+### LED Indicator Sub-Assembly
+
+![led sub-assembly.png](led%20sub-assembly.png)
+
+![led sub-assembly-labeled-sm.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)
+
+1. Snip the black wires off of two MALE quick connectors, labeling the red wire of one LED B and 
+   the red wire of the other LED R
+2. Snip the red wire off of one MALE quick connector.  Label the black wire LED C
+3. Connect the red wire of the LED to the LED R quick connector red wire
+4. Connect the blue wire of the LED to the LED B quick connector red wire
+5. Connect the black wire of the LED to the LED C quick connector black wire
+
 
 ### Power Input Sub-Assemblies
 
-1. For both DC ports, mount the DC barrel jack / port where desired, and then connect to M 
-connector (part #5), using butt connectors (label the wires PWR1 and PWR2)
+![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
 
+1. Connect the black and red wires from one pre-wired 12V port to the black and red wires on one 
+   MALE quick connector.  Label it CHRG.
+2. Connect the black and red wires from one pre-wired 12V port to the black and red wires on one
+   MALE quick connector.  Label it EXT.
+
+### Mounting Assemblies
+
+1. After drilling your mounting holes, you should be able to feed the MALE connectors on the LED 
+sub-assembly and the power input sub-assemblies through the holes
+2. Pass the shaft of your bypass switch through the hole and use the 
+washers, nut, etc. to affix the switch and attached sub-assembly
 
 ## Connecting Sub-Assemblies
 
-1. Connect one F IN connector on BCC1 to the M IN connector on the switch assembly
-2. Connect one F OUT connector on BCC2 to the M OUT connector on the switch assembly
-3. Connect PWR1 (CHARGE - charge jack) M connector to F IN connector on BCC1
-4. Connect PWR2 (2ND - secondary battery port) M connector to F OUT connector on BCC2
+Using your quick connects and matching labels:
+
+1. Connect the CHRG MALE quick connector on the power in sub-assembly to the CHRG FEMALE quick 
+   connector on the BATT sub-assembly
+2. Connect the EXT MALE quick connector on the power in sub-assembly to the EXT FEMALE quick 
+   connector on the LOAD sub-assembly
+
+
+1. Connect the BATT MALE quick connector on the SWITCH sub-assembly to the BATT SW FEMALE 
+   connector on the BATT sub-assembly
+2. Connect the LOAD MALE quick connector on the SWITCH sub-assembly to the LOAD SW FEMALE 
+   connector on the LOAD sub-assembly
+
+
+1. Connect the LED B FEMALE quick connector on the BATT sub-assembly to the LED B MALE connector 
+   on the LED sub-assembly
+2. Connect the LED R FEMALE quick connector on the LOAD sub-assembly to the LED R MALE connector 
+   on the LED sub-assembly
+3. Connect the LED C FEMALE quick connector on the SWITCH sub-assembly to the LED C MALE 
+   connector on the LED assembly
