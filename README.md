@@ -3,8 +3,18 @@ Diagrams and how-tos for wiring up your proton pack's power and audio
 
 ## [12V Power Assembly](power/12V%20Power%20Assembly.md)
 
-This mod provides a 12V DC battery charging port, a primary battery bypass switch, a 12V DC 
-secondary battery port, and dual 12V DC power out for amplifier and keep-alive / main board.
+With this power assembly, you'll be able to:
+
+- Charge your internal battery from an external charging port
+- Isolate your pack electronics when charging your internal battery using a bypass switch
+- Via a 12V port, use a secondary power source (external battery) which will be isolated from the
+  internal battery using the same bypass switch
+- See whether your pack electronics are isolated from your internal battery / charger based on
+  an LED indicator being blue
+- See whether your pack electronics are getting power from either an internal or external power
+  source based on an LED indicator being red
+
+[Wonky PDF Version of the Guide](power/12V%20Power%20Assembly.pdf)
 
 <!--
 ### For Users of 5V / 6V Keep-Alives or Pack Electronics

@@ -2,11 +2,16 @@
 
 ## Features
 
-- Charging port for primary internal battery
-- Bypass switch to isolate the pack electronics
-from the battery while charging
-- Secondary battery port - just flip the bypass switch
-and then plug in your emergency power
+With this power assembly, you'll be able to:
+
+- Charge your internal battery from an external charging port
+- Isolate your pack electronics when charging your internal battery using a bypass switch
+- Via a 12V port, use a secondary power source (external battery) which will be isolated from the 
+  internal battery using the same bypass switch
+- See whether your pack electronics are isolated from your internal battery / charger based on
+  an LED indicator being blue
+- See whether your pack electronics are getting power from either an internal or external power
+  source based on an LED indicator being red
 
 ## Overview
 
@@ -16,23 +21,23 @@ connect them together with a bypass switch.
 
 ## Photos
 
-[![battery wiring sub-assembly-labeled.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fbattery%20wiring%20sub-assembly-labeled.jpg)
+[![battery wiring sub-assembly-labeled.jpg](photos/battery%20wiring%20sub-assembly-labeled-sm.jpg)](photos/battery%20wiring%20sub-assembly-labeled.jpg)
 
 Battery-side wiring Y sub-assembly
 
-[![load wiring sub-assembly-labeled.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fload%20wiring%20sub-assembly-labeled.jpg)
+[![load wiring sub-assembly-labeled.jpg](photos/load%20wiring%20sub-assembly-labeled-sm.jpg)](photos/load%20wiring%20sub-assembly-labeled.jpg)
 
 Load-side wiring Y sub-assembly
 
-[![switch sub-assembly-labeled.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)](photos%2Fswitch%20sub-assembly-labeled.jpg)
+[![switch sub-assembly-labeled.jpg](photos/switch%20sub-assembly-labeled-sm.jpg)](photos/switch%20sub-assembly-labeled.jpg)
 
 Switch wiring sub-assembly
 
-[![led sub-assembly-labeled.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)](photos%2Fled%20sub-assembly-labeled.jpg)
+[![led sub-assembly-labeled.jpg](photos/led%20sub-assembly-labeled-sm.jpg)](photos/led%20sub-assembly-labeled.jpg)
 
 Two-color LED indicator sub-assembly
 
-[![charge port sub-assembly-labeled.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)](photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
+[![charge port sub-assembly-labeled.jpg](photos/charge%20port%20sub-assembly-labeled-sm.jpg)](photos/charge%20port%20sub-assembly-labeled.jpg)
 
 Charge & External power sub-assemblies
 
@@ -73,7 +78,7 @@ Charge & External power sub-assemblies
 
 ![battery sub-assembly.png](battery%20sub-assembly.png)
 
-[![battery wiring sub-assembly-labeled-sm.jpg](photos%2Fbattery%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fbattery%20wiring%20sub-assembly-labeled.jpg)
+[![battery wiring sub-assembly-labeled-sm.jpg](photos/battery%20wiring%20sub-assembly-labeled-sm.jpg)](photos/battery%20wiring%20sub-assembly-labeled.jpg)
 
 1. Label one 12V pigtail (part #2) BATT
 2. Connect one bare-wire side of a 12V pigtail to a pre-wired FEMALE quick connector 
@@ -88,7 +93,7 @@ Charge & External power sub-assemblies
 
 ![load sub-assembly.png](load%20sub-assembly.png)
 
-[![load wiring sub-assembly-labeled-sm.jpg](photos%2Fload%20wiring%20sub-assembly-labeled-sm.jpg)](photos%2Fload%20wiring%20sub-assembly-labeled.jpg)
+[![load wiring sub-assembly-labeled-sm.jpg](photos/load%20wiring%20sub-assembly-labeled-sm.jpg)](photos/load%20wiring%20sub-assembly-labeled.jpg)
 
 1. Label one 12V pigtail (part #2) LOAD
 2. Connect one bare-wire side of the 12V pigtail to a pre-wired FEMALE quick connector
@@ -104,7 +109,7 @@ Charge & External power sub-assemblies
 
 ![switch sub-assembly.png](switch%20sub-assembly.png)
 
-[![switch sub-assembly-labeled-sm.jpg](photos%2Fswitch%20sub-assembly-labeled-sm.jpg)](photos%2Fswitch%20sub-assembly-labeled.jpg)
+[![switch sub-assembly-labeled-sm.jpg](photos/switch%20sub-assembly-labeled-sm.jpg)](photos/switch%20sub-assembly-labeled.jpg)
 
 1. Label a MALE quick connector BATT
 2. Label a MALE quick connector LOAD
@@ -118,7 +123,7 @@ Charge & External power sub-assemblies
 
 ![led sub-assembly.png](led%20sub-assembly.png)
 
-[![led sub-assembly-labeled-sm.jpg](photos%2Fled%20sub-assembly-labeled-sm.jpg)](photos%2Fled%20sub-assembly-labeled.jpg)
+[![led sub-assembly-labeled-sm.jpg](photos/led%20sub-assembly-labeled-sm.jpg)](photos/led%20sub-assembly-labeled.jpg)
 
 1. Snip the black wires off of two MALE quick connectors, labeling the red wire of one LED B and 
    the red wire of the other LED R
@@ -130,8 +135,8 @@ Charge & External power sub-assemblies
 
 ### Power Input Sub-Assemblies
 
-[![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
-](photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
+[![charge port sub-assembly-labeled-sm.jpg](photos/charge%20port%20sub-assembly-labeled-sm.jpg)
+](photos/charge%20port%20sub-assembly-labeled.jpg)
 
 1. Connect the black and red wires from one pre-wired 12V port to the black and red wires on one 
    MALE quick connector.  Label it CHRG.
