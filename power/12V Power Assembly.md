@@ -130,7 +130,8 @@ Charge & External power sub-assemblies
 
 ### Power Input Sub-Assemblies
 
-[![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)(photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
+[![charge port sub-assembly-labeled-sm.jpg](photos%2Fcharge%20port%20sub-assembly-labeled-sm.jpg)
+](photos%2Fcharge%20port%20sub-assembly-labeled.jpg)
 
 1. Connect the black and red wires from one pre-wired 12V port to the black and red wires on one 
    MALE quick connector.  Label it CHRG.
