@@ -56,7 +56,8 @@ Charge & External power sub-assemblies
 4. [7 x F connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 5. [7 x M connector (pre-wired red/black, 18g)](https://amzn.to/4e0jmyx)
 6. [2 x DC barrel jack (pre-wired red/black, 18g)](https://amzn.to/4dRy4ri)
-7. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT)
+7. [1 x DPDT mini toggle switch](https://amzn.to/471Q0gT) 
+   or [pre-wired SPST toggle switch](https://amzn.to/3Zr1RU2) for no-solder option
 8. [butt connectors (18g)](https://amzn.to/4cEEYiH), [wire nuts](https://amz.run/9Xn1) or opt 
    for soldered wire connections
 9. cable and wire management supplies ([zip ties](https://amz.run/9Xnz), 
