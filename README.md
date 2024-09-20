@@ -14,16 +14,6 @@ With this power assembly, you'll be able to:
 - See whether your pack electronics are getting power from either an internal or external power
   source based on an LED indicator being red
 
-[Wonky PDF Version of the Guide](power/12V%20Power%20Assembly.pdf)
-
-### Videos
-
-[Overview (1:56)](https://youtu.be/uO9-Ru0Y7kw)
-
-[Longer Explanation (3:43)](https://youtu.be/x2D-j18WvII)
-
-[Deeper Dive (6:40)](https://youtu.be/GxCZtZ-E1Ig)
-
 <!--
 ### For Users of 5V / 6V Keep-Alives or Pack Electronics
 
