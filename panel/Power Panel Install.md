@@ -9,6 +9,12 @@ elsewhere on this 'site' to provide functionality to charge your pack with elect
 run your pack from your internal battery, and to run your pack from an external battery with the 
 internal battery isolated.
 
+## Video
+
+[Power Panel Demo (Long)](https://youtu.be/zHAtCDo_cRU)
+
+## Warning
+
 **BEFORE PROCEEDING, [READ THIS](Battery%20Warning.md)**
 
 **YOU DID [READ THIS](Battery%20Warning.md), RIGHT?**
