@@ -9,6 +9,8 @@ elsewhere on this 'site' to provide functionality to charge your pack with elect
 run your pack from your internal battery, and to run your pack from an external battery with the 
 internal battery isolated.
 
+You can use it with 5V/6V pack electronics with the addition of a 12V to 6V step down converter.
+
 ## Videos
 
 - [Power Panel Demo (Quick)](https://youtube.com/shorts/JSzOQSbEpJE)
