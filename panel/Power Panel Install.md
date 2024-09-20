@@ -66,6 +66,17 @@ the bottom of the 'bump-out' on an original panel.
 
 [full sticker](graphics/panel%20design.png)
 
+## Standby Switch
+
+The 'STANDBY' switch is a secondary power switch for your internal battery.  In order to have 
+one, you'll need to solder onto the contacts which come out of the back of the battery's circuit 
+board where the primary switch is located.
+
+**YOU DID [READ THIS](Battery%20Warning.md), RIGHT?**
+
+I don't have any instructions on this at the moment.  When you solder onto it, you'll add a 
+quick connect.  The other side of the quick connect will plug into the actual switch.
+
 ## Mounting Holes
 
 Center punch or otherwise mark the holes you'll be drilling by pressing through the 'crosshairs' 
