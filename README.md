@@ -14,6 +14,15 @@ With this power assembly, you'll be able to:
 - See whether your pack electronics are getting power from either an internal or external power
   source based on an LED indicator being red
 
+[Document](power/12V%20Power%20Assembly.md)
+
+## [Power Panel Install](panel/Power%20Panel%20Install.md)
+
+Documents installing a power panel which uses the [
+12V Power Assembly](power/12V%20Power%20Assembly.md) in the HasLab proton pack snack compartment.
+
+[Document](panel/Power%20Panel%20Install.md)
+
 <!--
 ### For Users of 5V / 6V Keep-Alives or Pack Electronics
 
