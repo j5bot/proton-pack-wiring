@@ -13,6 +13,14 @@ With this power assembly, you'll be able to:
 - See whether your pack electronics are getting power from either an internal or external power
   source based on an LED indicator being red
 
+### 5V / 6V Powered Electronics
+
+If you are using 5V (USB) or 6V electronics, the best way to utilize this circuit is by adding a 
+12V to 6V stepdown between the LOAD connector and the pack electronics.
+
+A document on how to do so is forthcoming.  In the meantime, know that you should use something 
+like [this 12V to 6V step-down converter](https://amz.run/9anl).
+
 ### Videos
 
 [Overview (1:56)](https://youtu.be/uO9-Ru0Y7kw)
@@ -25,7 +33,7 @@ With this power assembly, you'll be able to:
 
 For this project we will create two identical
 Y connectors with 12V DC input, 12V DC output and
-connect them together with a bypass switch.
+connect them together with a bypass switch and LED indicator.
 
 ## Photos
 
