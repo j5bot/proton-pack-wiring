@@ -4,6 +4,11 @@
 ![panel - pack open-sm.jpg](photos/panel%20-%20pack%20open-sm.jpg)
 ](photos/panel%20-%20pack%20open.jpg)
 
+This panel uses the [12V Power Assembly](../power/12V%20Power%20Assembly.md) circuit I detail 
+elsewhere on this 'site' to provide functionality to charge your pack with electronics isolated, 
+run your pack from your internal battery, and to run your pack from an external battery with the 
+internal battery isolated.
+
 **BEFORE PROCEEDING, [READ THIS](Battery%20Warning.md)**
 
 **YOU DID [READ THIS](Battery%20Warning.md), RIGHT?**
