@@ -1,5 +1,7 @@
 # Power Panel Install
 
+![panel lit.jpg](photos/panel%20lit.jpg)
+
 [
 ![panel - pack open-sm.jpg](photos/panel%20-%20pack%20open-sm.jpg)
 ](photos/panel%20-%20pack%20open.jpg)
