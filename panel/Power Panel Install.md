@@ -11,6 +11,8 @@ elsewhere on this 'site' to provide functionality to charge your pack with elect
 run your pack from your internal battery, and to run your pack from an external battery with the 
 internal battery isolated.
 
+[Appendix: Possible Additions...](#possible-additions)
+
 You can use it with 5V/6V pack electronics with the addition of a 12V to 6V step down converter.
 
 ## Videos
@@ -187,3 +189,15 @@ why it doesn't.
 4. Close up your motherboard.
 
 Test the functionality out again ... and enjoy your new power panel!
+
+## Appendix: Possible Additions
+
+Using this [fiber optic tubing](https://amz.run/9apS) and additional holes drilled
+for mounting the ends, you can add the ability to see the battery charge level to the panel.  
+Connect the tubing to the charge light holes (Photo 2: CHARGE LIGHT HOLES).
+
+Add a port to charge USB devices by connecting one of [
+these USB panel mount ports](https://amz.run/9apU) to a [
+USB bare wire pigtail](https://amz.run/9apW) using quick connects.
+
+Add voltmeters, ammeters, etc.
