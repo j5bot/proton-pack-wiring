@@ -9,11 +9,12 @@ elsewhere on this 'site' to provide functionality to charge your pack with elect
 run your pack from your internal battery, and to run your pack from an external battery with the 
 internal battery isolated.
 
-## Video
+## Videos
 
-[Power Panel Demo (Long)](https://youtu.be/zHAtCDo_cRU)
+- [Power Panel Demo (Quick)](https://youtube.com/shorts/JSzOQSbEpJE)
+- [Power Panel Demo (Long)](https://youtu.be/zHAtCDo_cRU)
 
-## Warning
+## WARNING
 
 **BEFORE PROCEEDING, [READ THIS](Battery%20Warning.md)**
 
@@ -47,11 +48,11 @@ There are several areas you’ll need to cut into the proton pack if installing 
 
 (Photo 4)
 
-| Area                                                                                                                                                                                                                                                                                                                                      | Image                                                                             |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| First, there is a corner between the booster tube cavity and snack compartment cavity.  Making this cut allows for mounting switches and ports lower on the panel (Photo 1: CORNER NOTCH).                                                                                                                                                | ![corner notch-sub.jpg](photos/corner%20notch-sub.jpg)                            |
-| You can reference the photo to see how far you need to cut to mount the ports in the locations where I did (Photo 1: PORT & SWITCH INSTALL LOCATIONS).                                                                                                                                                                                    | ![port and switch install-sub.jpg](photos/port%20and%20switch%20install-sub.jpg)  |
-| Secondly, you’ll make the “notch” that the power cell cable normally goes through into the main top cavity deeper, allowing you to pass the power assembly wires through from the snack area into the main body (Photo 2: MODIFIED WIRE PASS-THROUGH NOTCH).                                                                              | ![wire pass-through notch-sub.jpg](photos/wire%20pass-through%20notch-sub.jpg)    |
+| Area                                                                                                                                                                                                                                                                                                                                      | Image                                                                              |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| First, there is a corner between the booster tube cavity and snack compartment cavity.  Making this cut allows for mounting switches and ports lower on the panel (Photo 1: CORNER NOTCH).                                                                                                                                                | ![corner notch-sub.jpg](photos/corner%20notch-sub.jpg)                             |
+| You can reference the photo to see how far you need to cut to mount the ports in the locations where I did (Photo 1: PORT & SWITCH INSTALL LOCATIONS).                                                                                                                                                                                    | ![port and switch install-sub.jpg](photos/port%20and%20switch%20install-sub.jpg)   |
+| Secondly, you’ll make the “notch” that the power cell cable normally goes through into the main top cavity deeper, allowing you to pass the power assembly wires through from the snack area into the main body (Photo 2: MODIFIED WIRE PASS-THROUGH NOTCH).                                                                              | ![wire pass-through notch-sub.jpg](photos/wire%20pass-through%20notch-sub.jpg)     |
 | Optionally, in order to provide a clearer space in the snack cavity, you can remove the main board and then carefully cut a small hole between it and the ion arm / right cavity.  Once cut, turn the power cell electronics JST connector sideways, pass it through the hole carefully and plug it back in (Photo 3: POWER CELL WIRING). | ![power cell wiring-sub.jpg](photos/power%20cell%20wiring-sub.jpg)                 |
 | Thirdly, you’ll cut a notch out of the bottom of the D Cell battery compartment bottom to clear more room for switches and ports on the panel (Photo 4: BATTERY COMPARTMENT NOTCH).                                                                                                                                                       | ![battery compartment notch-sub.jpg](photos/battery%20compartment%20notch-sub.jpg) |
 
