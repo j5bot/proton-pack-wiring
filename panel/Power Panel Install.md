@@ -108,7 +108,7 @@ in the panel.
 For the ports, in order to do so, the portion of the quick connect which sticks out from the main 
 body at angles will have to be snipped off.
 
-For the LED indicator, the tabs at the end of the quick connects (not the one no the top!) will 
+For the LED indicator, the tabs at the end of the quick connects (not the one on the top!) will 
 also need to be snipped off.  The image below shows one side, but there are tabs on the hidden 
 side, too.
 
