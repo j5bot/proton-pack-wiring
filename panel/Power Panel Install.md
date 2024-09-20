@@ -74,6 +74,9 @@ x-acto.
 
 This will help get a nice clean hole through the sticker and a properly aligned drill.
 
+Be careful with where you drill your LED indicator hole, since I didn't mark it and the 
+placement is a bit tricky.
+
 ## Quick Connect Modifications
 
 The MALE quick connects on the ports and LED are going to have to go through the holes you drill 
@@ -90,4 +93,70 @@ side, too.
 
 ## Assembly
 
-1. Run the wiring through the holes in the panel.
+1. Run the wiring through the holes in the panel for your ports and LED indicator.  Snip off 
+   bits of the quick connects as needed to get everything through.
+
+   You may need to omit the LED indicator 'nut' if your indicator sits close to the pack 
+   internals1 or you can't get it over the quick connects and wires at the same time.  You can always use something like electrical tape or a rubber band to hold it in a little bit more.  Experiment.
+2. Run the two switches through the holes from the back side of the panel.  Don't connect the 
+   main power switch yet.
+3. Test fit your panel and make sure that everything seems ok.
+
+### Bench Testing the Circuit (No Pack Electronics)
+
+This portion may have done previously, but it's a good idea to do it again, regardless.
+
+1. Remove the panel and assemble the wiring by connecting the quick connects, but don't connect to 
+   batteries or pack electronics yet.
+2. Make sure that the 'PRIME' switch is flipped down and plug an external battery source 
+   (this can be your internal battery if needed) into the yellow 'EMRGNCY' port.  Turn on the 
+   battery and you should get a red indicator.  If you don't get that, you'll have to 
+   troubleshoot the 'LOAD' side of your circuit.
+3. Turn off and disconnect the battery from the 'EMRGNCY' port.
+4. Connect the battery to the 'BATT' side 12V plug.  Turn the battery on using the built-in 
+   switch.  You should see the blue indicator.  If you don't you'll have to trouble-shoot the 
+   'BATT' side of the circuit.
+5. Flip the 'PRIME' switch on.  You should now see the indicator turn red.
+6. Flip the 'PRIME' switch off.  You should see the blue indicator light. Turn the battery off.  You 
+   should see no indicator lights.
+
+### Bench Testing the Circuit (Pack Electronics)
+
+1. Connect the pack electronics to the 12V 'LOAD' side plug.  For HasLab packs, make sure that 
+   the cyclotron cover is seated well and won't disconnect during the tests.
+2. Turn the battery on.  You should see the blue indicator and should NOT be able to power up 
+   the pack.
+3. Flip the 'PRIME' switch.  You should see the indicator light change to red.
+4. Turn the pack on and everything should power up properly.
+5. Turn the pack off (NOT with the battery switch or by flipping 'PRIME'!)
+6. Flip down the 'PRIME' switch.  The indicator should turn blue.
+7. Turn off the battery.  The indicator light should turn off.
+8. Plug a battery into the 'EMRGNCY' port.  Turn the battery on.  The indicator should turn red.
+9. Turn the pack on and everything should power up properly.
+10. Turn the pack off (NOT with the battery switch!)
+11. Turn the battery off and disconnect it from the port.
+
+### Pack Installation
+
+1. Disconnect the 'BATT' 12V, 'LOAD' 12V, and anything else you may have plugged in that isn't 
+   part of the circuit wiring.
+2. Install the panel in the snack compartment.
+3. Connect the internal battery's secondary switch which you added to the 'STANDBY' switch quick 
+   connect.
+4. Route the rest of your wiring where it makes the most sense to you.  Don't try to do any 
+   cable management yet, as you may need to troubleshoot something.
+5. Connect the internal battery to the circuit with the 'BATT' side 12V plug.
+6. Check that flipping the 'STANDBY' switch lights up the blue indicator.
+7. Flip the switch back off.
+8. Connect the 'LOAD' 12V plug to your pack electronics.
+
+Now run through the same sequence as 'Bench Testing the Circuit (Pack Electronics)' as above in 
+order to test that everything in the circuit is functioning with the way you've installed it.
+
+1. Test fit the motherboard without closing the pack up.  If it doesn't sit properly, troubleshoot 
+why it doesn't.
+2. Do any cable / wire management tasks that you want to do.
+3. Repeat some basic testing if you'd like.
+4. Close up your motherboard.
+
+Test the functionality out again ... and enjoy your new power panel!
