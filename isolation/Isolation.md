@@ -1,5 +1,13 @@
 # GP⭐️ / Other Power Isolation Circuit (12V + 5V)
 
+## WARNING
+
+This guide represents a theoretical process based onnthe below
+diagram.  The author has not implemented this in the real
+world.
+
+YOU HAVE BEEN WARNED
+
 ![isolation switch](isolation-switch.jpg)
 
 ## Parts
