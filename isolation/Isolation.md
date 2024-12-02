@@ -25,4 +25,16 @@ For this circuit you will need:
   When the switch is in the "On" position, it will connect the battery to the GP⭐️ 5V electronics.
   This can of course be purchased pre-wired.
 
+- If using pre-wired cables: Some way to color code 5 different red wires.
+
+  For example, 5 (non-black) colors of electrical tape.
+  5 (non-black) markers and an appropriate way to tape paper
+  colored with them to thin wires.
+
+- If creating your own cables: 5 (non-black) colors of
+  18g (20g is probably ok too) wire.
+
 ## Instructions
+
+
+
