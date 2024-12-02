@@ -28,6 +28,12 @@ For this circuit you will need:
   When the switch is in the "On" position, it will connect the battery to the GP⭐️ 5V electronics.
   This can of course be purchased pre-wired.
 
+- A JST-XH connector (female although it plugs into a "port" on the pack board)
+
+  You will plug this into the port on the GP⭐️ pack board.
+  The easiest way to obtain this part and the above USB-A plug
+  is just to cut the included cable in two.
+
 - If using pre-wired cables: Some way to color code 5 different red wires.
 
   For example, 5 (non-black) colors of electrical tape.
@@ -38,6 +44,42 @@ For this circuit you will need:
   18g (20g is probably ok too) wire.
 
 ## Instructions
+
+### 12V Barrel Jack
+
+Leave the positive wire as just red if using pre-wired components.
+
+Connect the red wire to the top right terminal of your
+switch (labelled 4 in the diagram).
+
+Leave the black wire loose for the moment.
+
+### 12V Plug
+
+Color code the red wire with your first color, for example yellow.
+
+Connect this color coded "yellow" wire to the middle right terminal
+of your switch (labelled 5 in the diagram).
+
+Leave the black wire loose for the moment.
+
+### USB-A Plug
+
+Color code the red wire with your second color, for example green.
+
+Connect this color coded "green" wire to the middle left terminal
+of your switch (labelled 2 in the diagram).
+
+Leave the black wire loose for the moment.
+
+### JST-XH Connector
+
+Color code the red wire with your third color, for example blue.
+
+Connect this color coded "blue" wire to the bottom left terminal
+of your switch (labelled 3 in the diagram).
+
+Leave the black wire loose fornthe moment.
 
 
 
