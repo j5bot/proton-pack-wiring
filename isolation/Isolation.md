@@ -34,13 +34,16 @@ For this circuit you will need:
   The easiest way to obtain this part and the above USB-A plug
   is just to cut the included cable in two.
 
+- A length of 18-20g black wire and a length of 18-20g red wire
+  long enough to run between your switch and the GP⭐️ pack board. 
+
 - If using pre-wired cables: Some way to color code 5 different red wires.
 
-  For example, 5 (non-black) colors of electrical tape.
+  For example, 4 (non-black) colors of electrical tape.
   5 (non-black) markers and an appropriate way to tape paper
   colored with them to thin wires.
 
-- If creating your own cables: 5 (non-black) colors of
+- If creating your own cables: 4 (non-black) colors of
   18g (20g is probably ok too) wire.
 
 ## Instructions
@@ -79,7 +82,26 @@ Color code the red wire with your third color, for example blue.
 Connect this color coded "blue" wire to the bottom left terminal
 of your switch (labelled 3 in the diagram).
 
-Leave the black wire loose fornthe moment.
+Leave the black wire loose for the moment.
+
+### Red Wire Length
+
+For the red wire, color code with your fourth color, for example white.
+
+Connect this color coded "white" wire to the bottom rigjt terminal
+of your switch (labelled 6 in the diagram).
+
+## Black Wires
+
+All of the black wires from all of the cables and the
+length of black wire need to be connected together.
+
+The easiest way to do this, in my opinion, is to use a wire nut.
+
+I do not know the proper size/color to use as I have not
+implemented this circuit.
+
+
 
 
 
