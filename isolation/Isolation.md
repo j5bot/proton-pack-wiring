@@ -1,4 +1,4 @@
-# GP⭐️ Power Isolation Circuit (12V + 5V)
+# GP⭐️ / Other Power Isolation Circuit (12V + 5V)
 
 ![isolation switch](isolation-switch.jpg)
 
